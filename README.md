@@ -1,2 +1,1 @@
-# jamkit
-Java Message Kit for backend framework
+# Java Message Kit for backend framework
